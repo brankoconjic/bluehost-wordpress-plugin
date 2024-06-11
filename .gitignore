@@ -23,3 +23,5 @@ cypress.env.json
 *.log
 *.sql
 *.zip
+
+.npmrc
